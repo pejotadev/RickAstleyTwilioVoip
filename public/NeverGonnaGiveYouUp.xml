@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Thank you for calling Lloyds Bank</Say>
+<Play>https://s3-us-west-2.amazonaws.com/true-commitment/01-NeverGonnaGiveYouUp.mp3</Play>
+</Response>
